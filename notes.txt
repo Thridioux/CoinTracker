@@ -1,0 +1,4 @@
+create and activate the virtual env
+
+python3 -m venv CoinTracker
+source CoinTracker/bin/activate
