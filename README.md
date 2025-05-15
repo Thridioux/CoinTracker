@@ -66,6 +66,19 @@ python main.py
 - Use the time range buttons to filter historical data.
 - Set price alerts using the "Price Alerts" section.
 
+## Screenshots
+
+The `assets` folder contains images showcasing the application's interface. Below are some examples:
+
+### Login Page
+![Login Page](assets/login_page.png)
+
+### Bitcoin Price Visualization
+![Bitcoin Price](assets/btc.png)
+
+### Solana Price Visualization
+![Solana Price](assets/solana.png)
+
 ## Contributing
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
